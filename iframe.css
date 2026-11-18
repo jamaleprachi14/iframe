@@ -1,0 +1,50 @@
+*
+{
+	margin:0;
+	padding:0;
+}
+
+.blank{
+	background-color:whitesmoke;
+	height:500px;
+	width:50%;
+	margin-left:430px;
+}
+
+.float{
+	float:left;
+}
+
+.text{
+	text-align:center;
+}
+
+.flag{
+	height:240px;
+	width:100%;
+	margin-top:40px;
+}
+
+.india{
+	height:200px;
+	width:15%;
+}
+
+.tap{
+	margin:180px 0px 0px 0px;
+}
+
+.flagi{
+	height:220px;
+	width:18%;
+	margin-left:28px;
+}
+
+iframe{
+	height:100%;
+	width:100%;
+}
+.button{
+	height:30px;
+	width:80px;
+}
